@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides handouts from the 2007 version of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
